@@ -10,7 +10,7 @@
   ],
   "scripts": {},
   "devDependencies": {
-    "astro": "^5.4.3"
+    "astro": "^5.5.4"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
